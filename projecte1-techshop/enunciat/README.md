@@ -56,7 +56,7 @@ El treball s'estructura en un punt de partida i quatre etapes amb autonomia crei
 
 | Etapa | Sessions | Tasques | Què hi fareu? |
 |---|---|---|---|
-| 🚀 **[Punt de Partida (`etapa0-inicial/`)](etapa0-inicial/README.md)** | Sessió 1 | Inicialització | Explorar el repositori inicial, configurar els col·laboradors i preparar el tauler Kanban. |
+| 🚀 **[Punt de Partida (`../etapa0-inicial`)](../etapa0-inicial/README.md)** | Sessió 1 | Inicialització | Explorar el repositori inicial, configurar els col·laboradors i preparar el tauler Kanban. |
 | 🟢 **[Etapa 1 (`etapa1/`)](etapa1/README.md)** | Sessions 2, 3 i 4 | Tasques 1 a 4 | **Nivell bàsic:** aprendre el flux complet de GitHub amb tasques guiades pas a pas. |
 | 🟡 **[Etapa 2 (`etapa2/`)](etapa2/README.md)** | Sessions 5 i 6 | Tasques 5 a 8 | **Nivell intermedi:** completar codi incomplet, ampliar la documentació i resoldre un conflicte en Git. |
 | 🟠 **[Etapa 3 (`etapa3/`)](etapa3/README.md)** | Sessió 7 | Tasques 9 a 12 | **Descomposició:** analitzar una funcionalitat gran en equip i subdividir-la en 4 subtasques al Kanban. |

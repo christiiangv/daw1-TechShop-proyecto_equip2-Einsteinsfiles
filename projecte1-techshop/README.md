@@ -13,7 +13,7 @@
 > **Guía docente del repositorio (para el profesorado):**
 > Este documento constituye la **guía didáctica y de planificación para el profesorado**. El repositorio se estructura en dos directorios principales:
 > * 📁 **[`projecte/`](projecte/) — Proyecto completo de referencia (solucionario):** contiene la versión final íntegra y funcional de la aplicación (`Main.java`, `dades_botiga.txt`) junto con toda la documentación técnica terminada (`README.md`, `CONTRIBUTING.md`, `CHANGELOG.md` y `docs/`). Representa el resultado exacto al que deben llegar los equipos de alumnos al finalizar la actividad.
-> * 📁 **[`enunciat/`](enunciat/) — Material y enunciados para el alumnado (en catalán):** contiene la guía general para el estudiante ([`enunciat/README.md`](enunciat/README.md)), el esqueleto inicial de partida ([`enunciat/etapa0-inicial/`](enunciat/etapa0-inicial/)) y las instrucciones detalladas de las **4 etapas progresivas** ([`etapa1/`](enunciat/etapa1/), [`etapa2/`](enunciat/etapa2/), [`etapa3/`](enunciat/etapa3/) y [`etapa4/`](enunciat/etapa4/)) con las tareas que debe realizar cada grupo.
+> * 📁 **[`enunciat/`](enunciat/) — Material y enunciados para el alumnado (en catalán):** contiene la guía general para el estudiante ([`enunciat/README.md`](enunciat/README.md)), el esqueleto inicial de partida ([`etapa0-inicial`](etapa0-inicial/)) y las instrucciones detalladas de las **4 etapas progresivas** ([`etapa1/`](enunciat/etapa1/), [`etapa2/`](enunciat/etapa2/), [`etapa3/`](enunciat/etapa3/) y [`etapa4/`](enunciat/etapa4/)) con las tareas que debe realizar cada grupo.
 
 ---
 
@@ -957,7 +957,7 @@ Este repositorio ya incluye tanto la solución final completa como el desglose p
 2. **Guía y enunciado por etapas para el alumnado ([`enunciat/`](enunciat/)):**
    Contiene todo el material redactado en catalán dirigido directamente a los equipos de estudiantes:
    * [`enunciat/README.md`](enunciat/README.md): guía general para el alumnado (resumen de objetivos, organización del trabajo, flujo en GitHub y criterios de evaluación).
-   * [`enunciat/etapa0-inicial/`](enunciat/etapa0-inicial/): esqueleto base compilable de `projecte/Main.java` con el que los equipos inician su repositorio en la **Sesión 1**.
+   * [`etapa0-inicial`](etapa0-inicial/): esqueleto base compilable de `projecte/Main.java` con el que los equipos inician su repositorio en la **Sesión 1**.
    * [`enunciat/etapa1/`](enunciat/etapa1/) (**Tareas 1-4**): enunciados guiados paso a paso de nivel básico (módulo de clientes, descripción del proyecto, diagramas base Mermaid y tecnologías/instalación).
    * [`enunciat/etapa2/`](enunciat/etapa2/) (**Tareas 5-8**): plantillas de código incompleto (`TODO`) del módulo de productos y stock, documentación de API/casos de uso y escenario de conflicto de integración controlado entre las Tareas 5 y 6.
    * [`enunciat/etapa3/`](enunciat/etapa3/) (**Tareas 9-12**): especificación global del módulo de ventas, estadísticas y emisión de tiques para que el equipo la analice y descomponga autónomamente en 4 subtareas en el tablero Kanban.
